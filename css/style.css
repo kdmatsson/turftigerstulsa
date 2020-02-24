@@ -1,0 +1,32 @@
+
+
+a{
+    text-decoration: none;
+    margin: 5%;
+}
+
+.header{
+  float: auto;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  background-color: grey;
+  font-size: 30px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.competitiveadvantage{
+  float: left;
+  width: 33.3%;
+  box-sizing: border-box;
+  background-color: lightgreen;
+  border: 1px solid black;
+  height: 150px;
+  text-align: center;
+}
